@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2022-06-11
+title: "Welcome to SXNDRX"
+date: 2022-06-12
 ---
 
 # Hello
